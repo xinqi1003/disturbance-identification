@@ -2,7 +2,7 @@
 main
 临近种类支持向量机-交叉验证器
 求超参数
-说明：目前为学习版本的代码，待修改
+说明：目前为学习版本的代码
 """
 import numpy as np
 from sklearn.model_selection import cross_val_score #交叉验证函数
